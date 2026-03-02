@@ -1,12 +1,12 @@
 # 🏠 HouseHunt – House Rent Management System
 A full-stack MERN application for managing house rentals with role-based access control.
-Skills :-
-HyperText Markup Language (HTML)
-Cascading Style Sheets (CSS)
-JavaScript (Programming Language)
-React.js (Javascript Library)
-Node.js (Javascript Library)
-Express.js (Javascript Library)
+ Skills :-
+HyperText Markup Language (HTML) ,
+Cascading Style Sheets (CSS) ,
+JavaScript (Programming Language) ,
+React.js (Javascript Library) ,
+Node.js (Javascript Library) ,
+Express.js (Javascript Library) ,
 MongoDB
 
 ---
