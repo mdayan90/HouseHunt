@@ -19,14 +19,15 @@ const Footer = () => {
               <li><Link to="/register">Register</Link></li>
             </ul>
           </div>
-          {/* <div className="col-md-4 mb-3">
-            <h6 className="text-white">Contact</h6>
+          <div className="col-md-4 mb-3">
+            <h6 className="text-white">Team Member</h6>
             <p className="small">
-              <i className="bi bi-envelope me-2"></i>h<br />
-              <i className="bi bi-telephone me-2"></i>+1 (555) 123-4567<br />
-              <i className="bi bi-geo-alt me-2"></i>123 Main St, New York, NY
+              <i className="bi bi-envelope me-2"></i>Md Ayan Hashmi<br />
+              <i className="bi bi-telephone me-2"></i>Mohd Sameer<br />
+              <i className="bi bi-telephone me-2"></i>Naman Sankar<br />
+              <i className="bi bi-geo-alt me-2"></i>Mudit Kumar Singh
             </p>
-          </div> */}
+          </div>
         </div>
         <hr style={{ borderColor: '#334155' }} />
         <p className="text-center small mb-0">&copy; {new Date().getFullYear()} HouseHunt. All rights reserved.</p>
