@@ -22,10 +22,10 @@ const Footer = () => {
           <div className="col-md-4 mb-3">
             <h6 className="text-white">Team Member</h6>
             <p className="small">
-              <i className="bi bi-envelope me-2"></i>Md Ayan Hashmi<br />
-              <i className="bi bi-telephone me-2"></i>Mohd Sameer<br />
-              <i className="bi bi-telephone me-2"></i>Naman Sankar<br />
-              <i className="bi bi-geo-alt me-2"></i>Mudit Kumar Singh
+              <i></i>Md Ayan Hashmi<br />
+              <i></i>Mohd Sameer<br />
+              <i></i>Naman Sankar<br />
+              <i></i>Mudit Kumar Singh
             </p>
           </div>
         </div>
