@@ -98,7 +98,7 @@ npm install
 Edit `.env` as needed:
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/househunt
+MONGO_URI=mongodb+srv://hashmiayan90_db_user:hashmi9386960284@cluster0.tlqjjcx.mongodb.net/househunt?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=househunt_jwt_secret_key_2024
 JWT_EXPIRE=7d
 ```
